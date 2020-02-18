@@ -1,0 +1,21 @@
+2020-02-18 11:03:46,982  INFO [main] nopCommerceV001_Cucumber:29 - ****** Launching Browser **********
+ 2020-02-18 11:03:47,018  INFO [main] nopCommerceV001_Cucumber:36 - ****** opening Browser **********
+ 2020-02-18 11:03:55,469  INFO [main] nopCommerceV001_Cucumber:42 - ****** Providing Login Details **********
+ 2020-02-18 11:03:55,745  INFO [main] nopCommerceV001_Cucumber:49 - ****** Clicking on Login Button **********
+ 2020-02-18 11:04:11,838  INFO [main] nopCommerceV001_Cucumber:62 - ****** Login Successful **********
+ 2020-02-18 11:04:26,230  INFO [main] nopCommerceV001_Cucumber:29 - ****** Launching Browser **********
+ 2020-02-18 11:04:26,232  INFO [main] nopCommerceV001_Cucumber:36 - ****** opening Browser **********
+ 2020-02-18 11:04:32,406  INFO [main] nopCommerceV001_Cucumber:42 - ****** Providing Login Details **********
+ 2020-02-18 11:04:32,579  INFO [main] nopCommerceV001_Cucumber:49 - ****** Clicking on Login Button **********
+ 2020-02-18 11:04:34,391  INFO [main] nopCommerceV001_Cucumber:58 - ****** Login Passed **********
+ 2020-02-18 17:09:28,514  INFO [main] nopCommerceV001_Cucumber:29 - ****** Launching Browser **********
+ 2020-02-18 17:09:28,557  INFO [main] nopCommerceV001_Cucumber:36 - ****** opening Browser **********
+ 2020-02-18 17:09:30,980  INFO [main] nopCommerceV001_Cucumber:42 - ****** Providing Login Details **********
+ 2020-02-18 17:09:31,726  INFO [main] nopCommerceV001_Cucumber:49 - ****** Clicking on Login Button **********
+ 2020-02-18 17:09:38,275  INFO [main] nopCommerceV001_Cucumber:62 - ****** Login Successful **********
+ 2020-02-18 17:09:49,670  INFO [main] nopCommerceV001_Cucumber:29 - ****** Launching Browser **********
+ 2020-02-18 17:09:49,671  INFO [main] nopCommerceV001_Cucumber:36 - ****** opening Browser **********
+ 2020-02-18 17:09:51,696  INFO [main] nopCommerceV001_Cucumber:42 - ****** Providing Login Details **********
+ 2020-02-18 17:09:52,157  INFO [main] nopCommerceV001_Cucumber:49 - ****** Clicking on Login Button **********
+ 2020-02-18 17:09:53,483  INFO [main] nopCommerceV001_Cucumber:58 - ****** Login Passed **********
+ 
